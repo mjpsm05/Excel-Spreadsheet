@@ -1,6 +1,5 @@
 import streamlit as st 
-import pandas as pd 
-import plotly.express as px 
+import pandas as pd  
 from PIL import Image
 import matplotlib.pyplot as plt
 import numpy as np
